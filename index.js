@@ -1,31 +1,5 @@
 var number = 10
 
-function add5(a,b) {
-  number+=5
+function add(a,b) {
+  a+=b
 }
-
-function divideBy3() {
-  number /= 3
-}
-
-divideBy3()
-
-console.log(number)
-
-add5()
-
-number = 10
-
-add5()
-
-console.log(number)
-
-divideBy3()
-
-console.log(number)
-
-parseInt('2', 10)
-
-parseInt('2.2222', 10)
-
-parseInt('nonsense!', 10)
