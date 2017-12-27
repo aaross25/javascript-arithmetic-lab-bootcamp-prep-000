@@ -24,6 +24,4 @@ divideBy3()
 
 console.log(number)
 
-inc(n)
-
-dec(n)
+parseInt()
